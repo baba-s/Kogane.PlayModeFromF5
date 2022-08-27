@@ -1,5 +1,5 @@
 {
-    "name": "UniPlayModeFromF5",
+    "name": "Kogane.PlayModeFromF5",
     "references": [],
     "includePlatforms": [
         "Editor"
